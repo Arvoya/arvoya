@@ -15,4 +15,4 @@ Hi, I'm Isai Chaidez, a Digital Wellness Architect based in Seattle, WA. My acad
 
 My work is centered on developing innovative tools that bridge traditional health wisdom with contemporary technology, prioritizing user-friendly applications for holistic health. As a lifelong learner, I'm constantly exploring new technologies to enhance my skill set. My mission is to contribute to a healthier, more connected world through the thoughtful application of technology. Join me in this exciting journey, where the tranquility of ancient practices meets the vibrancy of modern innovation.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvoya&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvoya&langs_count=8)
